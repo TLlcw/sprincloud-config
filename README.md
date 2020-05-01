@@ -1,2 +1,3 @@
 # sprincloud-config
-lalala
+config:
+  info: "master branch,spring-config/config-dev.yml version=1"
